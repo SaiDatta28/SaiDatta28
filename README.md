@@ -1,12 +1,13 @@
 ## Hi there, I'm Sai Datta Kumar 👋
 
-## About Me🎓 Education: 
+## About Me
+## Education: 
 M.Tech in Computer Science and Engineering from Vellore Institute of Technology (VIT).
 ## Experience: 
 Recently completed a 10-month Software Development Internship at Intel , focusing on system validation and evaluating benchmarking metrics for technical performance.
 ## Current Focus: 
 Actively seeking Data Analyst, Data Scientist, and Software Engineer opportunities.
-## Technical Skills: Group your skills clearly.
+## Technical Skills: 
 ## Languages: 
 Python, SQL (MySQL)
 
